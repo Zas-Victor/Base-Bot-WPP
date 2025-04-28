@@ -1,6 +1,6 @@
 # Manual de Uso das Funções Comuns
 
-Este documento tem como objetivo explicar de forma simples as funções disponíveis no código fornecido, que faz parte de um bot de mensagens. O código foi desenvolvido por [guiireal](https://github.com/guiireal). Abaixo, você encontrará uma descrição de cada função, como ela funciona e exemplos de uso.
+Este documento tem como objetivo explicar de forma simples as funções disponíveis no código fornecido, que faz parte de um bot de mensagens. A base do código foi desenvolvido por [guiireal](https://github.com/guiireal). Abaixo, você encontrará uma descrição de cada função, como ela funciona e exemplos de uso.
 
 ## Estrutura do Código
 
